@@ -1,2 +1,2 @@
-# Traffic-sign-recognition
-Traffic sign recognition based on deep learning.
+# FASTER Traffic-sign-recognition
+FASTER Traffic sign recognition based on deep learning.
